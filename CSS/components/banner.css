@@ -5,7 +5,7 @@ background-image: linear-gradient(
   rgba(0, 0, 0, 0.6) 0%,      
   rgba(0, 0, 0, 0.3) 50%
 ),
-url('../../images/background.png');
+url('../../IMAGES/background.png');
 
 	color: #FFFFFF; 
     text-shadow: 0 4px 12px rgba(0, 0, 0, 0.9);
@@ -20,4 +20,5 @@ url('../../images/background.png');
 	font-size: 30px;
 	margin-bottom: 40px;
 	opacity: 0.9;
+
 	font-weight: 700;}
